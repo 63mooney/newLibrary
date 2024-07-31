@@ -1,0 +1,11 @@
+
+@newLibrary_HostAddress = https://localhost:7189
+
+GET {{newLibrary_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{newLibrary_HostAddress}}/weatherforecast
+
+###

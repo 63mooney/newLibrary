@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\newLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|c:\\users\\user\\source\\repos\\newlibrary\\newlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|solutionrelative:newlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|c:\\users\\user\\source\\repos\\newlibrary\\newlibrary\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|solutionrelative:newlibrary\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|c:\\users\\user\\source\\repos\\newlibrary\\newlibrary\\newlibrary.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|solutionrelative:newlibrary\\newlibrary.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|c:\\users\\user\\source\\repos\\newlibrary\\newlibrary\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|solutionrelative:newlibrary\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|c:\\users\\user\\source\\repos\\newlibrary\\newlibrary\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF11F9AA-CF74-4D57-9B70-00C4DE50B575}|newLibrary\\newLibrary.csproj|solutionrelative:newlibrary\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "newLibrary.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\newLibrary.http",
+              "RelativeDocumentMoniker": "newLibrary\\newLibrary.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\newLibrary.http",
+              "RelativeToolTip": "newLibrary\\newLibrary.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-31T02:48:00.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Helpers\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "newLibrary\\Helpers\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Helpers\\JwtMiddleware.cs",
+              "RelativeToolTip": "newLibrary\\Helpers\\JwtMiddleware.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswDEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:45:55.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "newLibrary\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Services\\UserService.cs",
+              "RelativeToolTip": "newLibrary\\Services\\UserService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:29:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "newLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Program.cs",
+              "RelativeToolTip": "newLibrary\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T00:02:07.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "newLibrary\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\newLibrary\\newLibrary\\Controllers\\UserController.cs",
+              "RelativeToolTip": "newLibrary\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA3wBkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:40:17.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
